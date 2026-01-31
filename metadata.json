@@ -1,0 +1,7 @@
+{
+  "name": "Kieferorthopädie Walter - Wittenberg",
+  "description": "Professionelle Website für die Kieferorthopädische Praxis Dr. med. dent. Katrin & Frank Walter in Lutherstadt Wittenberg.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
